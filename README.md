@@ -5,7 +5,9 @@
 <h3 align="center">A passionate Frontend Developer</h3>
 
 <div align="center">
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MahirSiyam)](https://git.io/streak-stats)
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=MahirSiyam" alt="GitHub Streak" />
+  </a>
 </div>
 
 ---
