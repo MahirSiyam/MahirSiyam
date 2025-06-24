@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+## About Me 🧑‍💻
+
+- 🛠️ I’m currently working on a Parcel Delivery Web App.
+- 🌱 I’m currently learning Next.js and Tailwind CSS.
+- 💬 Ask me about React, JavaScript, HTML, CSS, or anything frontend-related!
+- 📫 Reach me at [youremail@example.com](mailto:youremail@example.com)
+
 <!--
 **MahirSiyam/MahirSiyam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
