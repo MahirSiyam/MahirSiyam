@@ -55,3 +55,9 @@ I’m a passionate **Frontend Developer** with strong skills in building respons
 ### 📊 GitHub Stats
 
 ![MahirSiyam's Stats](https://github-readme-stats.vercel.app/api?username=MahirSiyam&theme=default&show_icons=true&hide_border=true&count_private=true)
+
+---
+
+### 👁️ Profile Views
+
+![Profile Views](https://hits.sh/github/MahirSiyam.svg)
