@@ -60,4 +60,4 @@ I’m a passionate **Frontend Developer** with strong skills in building respons
 
 ### 👁️ Profile Views
 
-![Profile Views](https://hits.sh/github/MahirSiyam.svg)
+![Profile Views](https://komarev.com/ghpvc/?username=MahirSiyam&style=flat-square&color=blue)
