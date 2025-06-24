@@ -36,6 +36,8 @@ I’m a passionate **Frontend Developer** with strong skills in building respons
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
 </p>
 
+![MahirSiyam's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MahirSiyam&theme=default&show_icons=true&hide_border=true&layout=compact)
+
 ---
 
 ### 🌐 Connect With Me
@@ -50,4 +52,3 @@ I’m a passionate **Frontend Developer** with strong skills in building respons
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MahirSiyam)](https://git.io/streak-stats)
 ![MahirSiyam's Stats](https://github-readme-stats.vercel.app/api?username=MahirSiyam&theme=default&show_icons=true&hide_border=true&count_private=true)
-![MahirSiyam's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MahirSiyam&theme=default&show_icons=true&hide_border=true&layout=compact)
