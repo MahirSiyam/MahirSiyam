@@ -1,55 +1,19 @@
-<!-- Banner -->
-<img src="https://media.licdn.com/dms/image/v2/D5616AQEMBhYxwtEMfA/profile-displaybackgroundimage-shrink_350_1400/B56ZYlPwzLHEAk-/0/1744381612821?e=1756339200&v=beta&t=hBfWx8wWJgitrwwjvwIpbqDbjirlfl3RttemoB46Dfc" />
+![A passionate Frontend Developer from BD](https://media.licdn.com/dms/image/v2/D5616AQEMBhYxwtEMfA/profile-displaybackgroundimage-shrink_350_1400/B56ZYlPwzLHEAk-/0/1744381612821?e=1756339200&v=beta&t=hBfWx8wWJgitrwwjvwIpbqDbjirlfl3RttemoB46Dfc)
+### Hi👋, I'm Mahir
+#### A passionate Frontend Developer from BD
 
-<h1 align="center">Hi, I'm Mahir Siyam 👋</h1>
-<h3 align="center">MERN Stack Developer | Computer Science Student</h3>
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
----
+Skills: HTML5 / CSS3 / Tailwind CSS / JavaScript / React / Node.js / Express.js / MongoDB / Git / GitHub
 
-### 🧑‍💻 About Me
+- 🌱 I’m currently learning  Node.js, Express.js & MongoDB  
+- 💬 Ask me about React, JavaScript, HTML, CSS, or anything frontend-related! 
+- 📫 How to reach me: mahirmubtasimsiyam@gmail.com 
 
-I am a passionate and self-motivated web developer currently pursuing a degree in Computer Science at Sylhet Engineering College. I love building modern full-stack applications, learning new technologies, and contributing to open-source projects when I can.
 
----
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MahirSiyam)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/mahir-siyam-1a9808356//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/mahir.siyam.2024/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg' alt='codeforces' height='40'>](https://codeforces.com/profile/MahirSiyam)  
 
-### 🔭 Currently Working On
-- 🚀 A parcel delivery system using MERN stack
-- 🌱 Exploring **Next.js** and **TypeScript**
-- 🧪 Experimenting with UI/UX improvements in React
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MahirSiyam)](https://github.com/anuraghazra/github-readme-stats)
 
----
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MahirSiyam&show_icons=true)  
 
-### 🛠️ Skills & Tools
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
-</p>
-
----
-
-### 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/your-profile)  
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge)](https://facebook.com/your-profile)  
-[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white&style=for-the-badge)](https://github.com/your-username)
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" width="50%" />
-</p>
