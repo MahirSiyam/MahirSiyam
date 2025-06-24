@@ -2,7 +2,11 @@
 <img src="https://media.licdn.com/dms/image/v2/D5616AQEMBhYxwtEMfA/profile-displaybackgroundimage-shrink_350_1400/B56ZYlPwzLHEAk-/0/1744381612821?e=1756339200&v=beta&t=hBfWx8wWJgitrwwjvwIpbqDbjirlfl3RttemoB46Dfc" alt="Banner" width="100%" />
 
 <h1 align="center">Hi, I'm Mahir Siyam 👋</h1>
-<h3 align="center">Frontend Developer | Computer Science Student from Bangladesh</h3>
+<h3 align="center">A passionate Frontend Developer</h3>
+
+<div align="center">
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MahirSiyam)](https://git.io/streak-stats)
+</div>
 
 ---
 
@@ -50,5 +54,4 @@ I’m a passionate **Frontend Developer** with strong skills in building respons
 
 ### 📊 GitHub Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MahirSiyam)](https://git.io/streak-stats)
 ![MahirSiyam's Stats](https://github-readme-stats.vercel.app/api?username=MahirSiyam&theme=default&show_icons=true&hide_border=true&count_private=true)
