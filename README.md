@@ -48,10 +48,6 @@ I’m a passionate **Frontend Developer** with strong skills in building respons
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MahirSiyam&theme=radical" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahirSiyam&layout=compact&theme=radical" width="50%" />
-</p>
+![MahirSiyam's Stats](https://github-readme-stats.vercel.app/api?username=MahirSiyam&theme=default&show_icons=true&hide_border=true&count_private=true)
+![MahirSiyam's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MahirSiyam&theme=default&hide_border=true)
+![MahirSiyam's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MahirSiyam&theme=default&show_icons=true&hide_border=true&layout=compact)
