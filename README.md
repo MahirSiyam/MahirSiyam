@@ -52,9 +52,3 @@ I’m a passionate **Frontend Developer** with strong skills in building respons
 [![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white&style=for-the-badge)](https://github.com/MahirSiyam)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/mahir-siyam-1a9808356/)  
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge)](https://www.facebook.com/mahir.siyam.2024/)  
-
----
-
-### 📊 GitHub Stats
-
-![MahirSiyam's Stats](https://github-readme-stats.vercel.app/api?username=MahirSiyam&theme=default&show_icons=true&hide_border=true&count_private=true)
