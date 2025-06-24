@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="[https://your-banner-link.com/banner.png" alt="Banner" width="100%](https://media.licdn.com/dms/image/v2/D5616AQEMBhYxwtEMfA/profile-displaybackgroundimage-shrink_350_1400/B56ZYlPwzLHEAk-/0/1744381612821?e=1756339200&v=beta&t=hBfWx8wWJgitrwwjvwIpbqDbjirlfl3RttemoB46Dfc)" />
+<img src="https://media.licdn.com/dms/image/v2/D5616AQEMBhYxwtEMfA/profile-displaybackgroundimage-shrink_350_1400/B56ZYlPwzLHEAk-/0/1744381612821?e=1756339200&v=beta&t=hBfWx8wWJgitrwwjvwIpbqDbjirlfl3RttemoB46Dfc" />
 
 <h1 align="center">Hi, I'm Mahir Siyam 👋</h1>
 <h3 align="center">MERN Stack Developer | Computer Science Student</h3>
