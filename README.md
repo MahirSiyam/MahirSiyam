@@ -7,7 +7,9 @@
 <h1 align="center">Hi, I'm Mahir Siyam 👋</h1>
 <h3 align="center">A passionate Frontend Developer</h3>
 
-![](https://nirzak-streak-stats.vercel.app/?user=MahirSiyam&theme=dark&hide_border=false)<br/>
+<div style="text-align: center;">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=MahirSiyam&theme=dark&hide_border=false" alt="GitHub Streak Stats">
+</div>
 
 ---
 
