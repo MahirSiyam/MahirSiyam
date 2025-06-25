@@ -1,10 +1,6 @@
 <!-- Banner -->
 <img src="https://media.licdn.com/dms/image/v2/D5616AQEMBhYxwtEMfA/profile-displaybackgroundimage-shrink_350_1400/B56ZYlPwzLHEAk-/0/1744381612821?e=1756339200&v=beta&t=hBfWx8wWJgitrwwjvwIpbqDbjirlfl3RttemoB46Dfc" alt="Banner" width="100%" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;React+Enthusiast;Clean+UI+Lover;Always+Learning&center=true&width=500&height=45">
-</p>
-
 <!-- Put the profile views badge here -->
 ![Profile Views](https://komarev.com/ghpvc/?username=MahirSiyam&style=flat-square&color=blue)
 
