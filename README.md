@@ -21,7 +21,7 @@ I’m a passionate **Frontend Developer** with strong skills in building respons
 
 ### 🔭 Currently Working On
 
-- 🌱 Learning **Node.js**, **Express.js**, and **MongoDB**  
+- 🌱 Learning **Next.js** and **TypeScript**  
 - 💬 Ask me about React, JavaScript, HTML, CSS, or anything frontend-related!  
 - 📫 Reach me at: [mahirmubtasimsiyam@gmail.com](mailto:mahirmubtasimsiyam@gmail.com)
 
