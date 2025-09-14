@@ -1,5 +1,8 @@
 <!-- Banner -->
-<img src="https://i.ibb.co.com/8DjvTGVZ/Picsart-25-04-11-19-58-03-847.jpg" alt="Banner" width="100%" />
+<img src="https://i.ibb.co.com/8DjvTGVZ/Picsart-25-04-11-19-58-03-847.jpg" 
+     alt="Banner" 
+     style="width: 100%; height: 300px; object-fit: cover;" />
+
 
 <!-- Put the profile views badge here -->
 ![Profile Views](https://komarev.com/ghpvc/?username=MahirSiyam&style=flat-square&color=blue)
