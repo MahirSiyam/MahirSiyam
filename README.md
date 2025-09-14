@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="https://media.licdn.com/dms/image/v2/D5616AQEMBhYxwtEMfA/profile-displaybackgroundimage-shrink_350_1400/B56ZYlPwzLHEAk-/0/1744381612821?e=1756339200&v=beta&t=hBfWx8wWJgitrwwjvwIpbqDbjirlfl3RttemoB46Dfc" alt="Banner" width="100%" />
+<img src="[https://media.licdn.com/dms/image/v2/D5616AQEMBhYxwtEMfA/profile-displaybackgroundimage-shrink_350_1400/B56ZYlPwzLHEAk-/0/1744381612821?e=1756339200&v=beta&t=hBfWx8wWJgitrwwjvwIpbqDbjirlfl3RttemoB46Dfc](https://i.ibb.co.com/8DjvTGVZ/Picsart-25-04-11-19-58-03-847.jpg)" alt="Banner" width="100%" />
 
 <!-- Put the profile views badge here -->
 ![Profile Views](https://komarev.com/ghpvc/?username=MahirSiyam&style=flat-square&color=blue)
